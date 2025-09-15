@@ -4,7 +4,7 @@ This project is a simple Student Management System built with TypeScript. It pro
 
 ## Project Structure
 
-```
+```11111
 student-management-system
 ├── src
 │   ├── app.ts                  # Entry point of the application
